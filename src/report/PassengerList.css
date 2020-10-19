@@ -1,0 +1,8 @@
+.passengerListCoontainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.generateButton {
+  margin-left: 10px;
+}

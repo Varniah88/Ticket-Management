@@ -1,0 +1,9 @@
+.report__left{
+    background-color: rgb(26, 27, 27);
+    height: 85vh;
+    display: flex;
+    overflow-y: hidden;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding: 20px;
+}

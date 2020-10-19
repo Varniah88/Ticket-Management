@@ -1,0 +1,11 @@
+.ForeignHome__header{
+    display: flex;
+   font-variant-caps: all-petite-caps;
+    align-items: center;
+    background-color: black;
+}
+
+.ForeignHome__header a{
+    color: white;
+    margin: 0 10px;
+}

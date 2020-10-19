@@ -1,0 +1,16 @@
+.login__form{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(247, 252, 252);
+    height:50vh;
+    border-radius: 80px;
+    
+    /* border: 1px solid red;; */
+}
+#frm > button{
+    margin-left: 10px;
+    margin-right: 10px;
+   
+}
